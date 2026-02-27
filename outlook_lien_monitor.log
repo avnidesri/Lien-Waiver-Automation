@@ -1,0 +1,1813 @@
+2026-02-16 18:11:48,098 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:11:48,100 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:12:29,221 [INFO] Worker interrupted and exiting.
+2026-02-16 18:13:51,973 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:13:51,975 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:14:27,798 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:14:27,799 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:17:02,605 [INFO] Worker interrupted and exiting.
+2026-02-16 18:17:05,280 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:17:05,281 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:17:10,092 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-16 18:17:15,102 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-16 18:17:15,781 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-16 18:17:20,181 [INFO] Processing email. Subject: 'Piney Woods_BUILD_Unconditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:17:22,825 [INFO] Saved attachment to: C:\Lien Wavers\087 Piney Woods\BUILD\Unconditional\20260216_124722__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:17:23,230 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:17:25,625 [INFO] Processing email. Subject: 'Show Me State_BUILD_Unconditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:17:28,162 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\BUILD\Unconditional\20260216_124728__SMS Exhibit F-2 - Unconditional PayApp _24.pdf
+2026-02-16 18:17:30,736 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:18:22,861 [INFO] Processing email. Subject: 'Piney Woods_BUILD_Unconditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:18:27,612 [INFO] Saved attachment to: C:\Lien Wavers\087 Piney Woods\BUILD\Unconditional\20260216_124825__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:18:27,937 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:18:30,111 [INFO] Processing email. Subject: 'Show Me State_BUILD_Unconditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:18:32,740 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\BUILD\Unconditional\20260216_124830__SMS Exhibit F-2 - Unconditional PayApp _24.pdf
+2026-02-16 18:18:33,120 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:26:10,345 [INFO] Processing email. Subject: 'Badger State_Boldt_Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:26:13,265 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\Conditional\20260216_125613__106598-0012 Draw 12.pdf
+2026-02-16 18:26:15,989 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:26:19,022 [INFO] Processing email. Subject: 'Catclaw_EPCS_Unconditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:26:21,838 [INFO] Saved attachment to: C:\Lien Wavers\105 Catclaw\EPCS\Unconditional\20260216_125621__Unconditional Progress _24208812.pdf
+2026-02-16 18:26:22,204 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:27:15,067 [INFO] Processing email. Subject: 'Piney Woods BUILD Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:27:17,827 [INFO] Saved attachment to: C:\Lien Wavers\087 Piney Woods\Woods\BUILD Conditional\20260216_125717__PWS-Partial Lien Waiver _12 _Conditional_ Signed.pdf
+2026-02-16 18:27:20,430 [INFO] Processed and moved mail to 'Processed'.
+2026-02-16 18:27:39,804 [INFO] Worker interrupted and exiting.
+2026-02-16 18:28:14,330 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:28:14,332 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:28:18,469 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-16 18:28:18,824 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-16 18:28:19,310 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-16 18:29:16,095 [INFO] Worker interrupted and exiting.
+2026-02-16 18:30:23,945 [ERROR] Could not resolve folder path: Inbox\Lien Waivers
+2026-02-16 18:30:23,945 [INFO] Top-level stores and their immediate folders (diagnostic):
+2026-02-16 18:30:23,978 [INFO] Store: Avni.Goyal@desri.com
+2026-02-16 18:30:24,023 [INFO]   - Deleted Items
+2026-02-16 18:30:24,046 [INFO]   - Inbox
+2026-02-16 18:30:24,072 [INFO]   - Outbox
+2026-02-16 18:30:24,099 [INFO]   - Sent Items
+2026-02-16 18:30:24,126 [INFO]   - Calendar
+2026-02-16 18:30:24,148 [INFO]   - Contacts
+2026-02-16 18:30:24,172 [INFO]   - Notes
+2026-02-16 18:30:24,202 [INFO]   - Junk Email
+2026-02-16 18:30:24,232 [INFO]   - Journal
+2026-02-16 18:30:24,266 [INFO]   - ExternalContacts
+2026-02-16 18:30:24,297 [INFO]   - Drafts
+2026-02-16 18:30:24,324 [INFO]   - Conversation History
+2026-02-16 18:30:24,350 [INFO]   - Conversation Action Settings
+2026-02-16 18:30:24,374 [INFO]   - Archive
+2026-02-16 18:30:24,401 [INFO]   - Yammer Root
+2026-02-16 18:30:24,427 [INFO]   - Tasks
+2026-02-16 18:30:24,456 [INFO]   - Sync Issues
+2026-02-16 18:30:24,481 [INFO]   - RSS Feeds
+2026-02-16 18:30:24,507 [INFO]   - Quick Step Settings
+2026-02-16 18:30:24,531 [INFO]   - Social Activity Notifications
+2026-02-16 18:30:24,557 [INFO]   - Files
+2026-02-16 18:30:24,579 [INFO] Store: Online Archive - Avni.Goyal@desri.com
+2026-02-16 18:30:26,378 [INFO]   - Archive
+2026-02-16 18:30:27,431 [INFO]   - Calendar
+2026-02-16 18:30:28,545 [INFO]   - Deleted Items
+2026-02-16 18:30:29,667 [INFO]   - Files
+2026-02-16 18:30:30,793 [INFO]   - Inbox
+2026-02-16 18:30:31,846 [INFO]   - Sent Items
+2026-02-16 18:30:31,870 [INFO] Store: MA_Mailbox
+2026-02-16 18:30:38,136 [INFO]   - Yammer Root
+2026-02-16 18:30:40,655 [INFO]   - Tasks
+2026-02-16 18:30:43,170 [INFO]   - Sent Items
+2026-02-16 18:30:45,689 [INFO]   - Outbox
+2026-02-16 18:30:48,159 [INFO]   - Notes
+2026-02-16 18:30:50,621 [INFO]   - Junk Email
+2026-02-16 18:30:53,107 [INFO]   - Journal
+2026-02-16 18:30:55,582 [INFO]   - Inbox
+2026-02-16 18:30:58,649 [INFO]   - Files
+2026-02-16 18:31:01,192 [INFO]   - ExternalContacts
+2026-02-16 18:31:03,707 [INFO]   - Drafts
+2026-02-16 18:31:06,183 [INFO]   - Deleted Items
+2026-02-16 18:31:08,792 [INFO]   - Conversation History
+2026-02-16 18:31:12,261 [INFO]   - Conversation Action Settings
+2026-02-16 18:31:15,263 [INFO]   - Contacts
+2026-02-16 18:31:17,718 [INFO]   - Calendar
+2026-02-16 18:31:20,204 [INFO]   - Archive
+2026-02-16 18:31:20,221 [INFO] Store: Public Folders - Avni.Goyal@desri.com
+2026-02-16 18:31:20,247 [INFO]   - Favorites
+2026-02-16 18:31:20,823 [INFO]   - All Public Folders
+2026-02-16 18:40:39,607 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-16 18:40:39,611 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-16 18:40:44,872 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-16 18:40:44,878 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-16 18:40:45,530 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-16 18:41:16,819 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:17,006 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131116__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:17,011 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:17,236 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:17,338 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131117__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:17,343 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:17,578 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:17,675 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131117__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:17,680 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:17,916 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:18,013 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131117__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:18,017 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:18,293 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:18,386 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131118__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:18,392 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:18,648 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:18,754 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131118__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:18,761 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:19,116 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:19,381 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131119__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:19,427 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:19,884 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:20,056 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131119__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:20,065 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:20,487 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:20,650 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131120__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:20,657 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:20,976 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:21,105 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131121__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:21,110 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:21,479 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:21,683 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131121__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:21,690 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:22,099 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:22,316 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131122__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:22,324 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:22,789 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:23,027 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131122__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:23,042 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:23,475 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:23,746 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131123__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:23,754 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:24,078 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:24,227 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131124__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:24,235 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:24,553 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:24,669 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131124__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:24,675 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:24,996 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:25,108 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131125__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:25,115 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:25,503 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:25,630 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131125__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:25,635 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:26,034 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:26,151 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131126__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:26,157 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:26,455 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:26,589 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131126__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:26,595 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:27,185 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:27,288 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131127__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:27,295 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:27,556 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:27,660 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131127__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:27,664 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:27,956 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:28,064 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131127__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:28,069 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:28,397 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:28,528 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131128__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:28,534 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:28,811 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:28,913 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131128__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:28,919 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:29,213 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:29,312 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131129__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:29,317 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:29,593 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:29,704 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131129__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:29,709 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:29,959 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:30,052 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131129__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:30,057 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:30,303 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:30,397 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131130__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:30,401 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:30,661 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:30,767 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131130__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:30,773 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:31,053 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:31,150 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131131__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:31,155 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:31,406 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:31,495 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131131__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:31,499 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:31,749 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:31,854 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131131__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:31,860 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:32,139 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:32,251 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131132__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:32,255 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:32,535 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:32,639 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131132__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:32,644 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:32,915 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:33,053 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131132__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:33,062 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:33,368 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:33,610 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131133__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:33,618 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:33,927 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:34,053 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131133__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:34,060 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:34,375 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:34,481 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131134__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:34,485 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:34,781 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:34,892 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131134__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:34,897 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:35,163 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:35,290 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131135__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:35,295 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:35,577 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:35,674 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131135__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:35,678 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:36,041 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:36,204 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131136__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:36,209 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:36,586 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:36,746 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131136__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:36,827 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:37,416 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:37,658 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131137__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:37,664 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:38,274 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:38,380 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131138__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:38,385 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:39,048 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:39,157 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131139__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-16 18:41:39,162 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:39,439 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:39,538 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131139__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-16 18:41:39,543 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:39,801 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-16 18:41:39,906 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State\Boldt Conditional\20260216_131139__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-16 18:41:39,915 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-16 18:41:39,942 [INFO] Worker interrupted and exiting.
+2026-02-17 16:17:16,380 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-17 16:17:16,382 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-17 16:17:20,707 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-17 16:17:20,709 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-17 16:17:21,184 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-17 16:17:21,306 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:21,404 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104721__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:21,406 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:21,507 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:21,556 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104721__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:21,558 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:21,664 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:21,723 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104721__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:21,728 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:21,859 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:21,906 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104721__PWS-Lien Waiver _11 _Unconditional___v3.pdf
+2026-02-17 16:17:21,909 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:22,027 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:22,085 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104722__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:22,089 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:22,215 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:22,271 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104722__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:22,274 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:22,446 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:22,522 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104722__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:22,524 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:22,712 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:22,778 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104722__PWS-Lien Waiver _11 _Unconditional___v3.pdf
+2026-02-17 16:17:22,781 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:22,936 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:23,002 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104722__PWS-Lien Waiver _11 _Unconditional___v4.pdf
+2026-02-17 16:17:23,006 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:23,176 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:23,245 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104723__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:23,251 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:23,444 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:23,531 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104723__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:23,538 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:23,713 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:23,775 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104723__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:23,778 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:23,947 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:24,017 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104723__PWS-Lien Waiver _11 _Unconditional___v3.pdf
+2026-02-17 16:17:24,020 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:24,195 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:24,262 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104724__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:24,265 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:24,427 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:24,498 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104724__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:24,501 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:24,687 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:24,769 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104724__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:24,776 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:25,001 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:25,082 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104725__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:25,085 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:25,350 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:25,435 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104725__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:25,439 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:25,667 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:25,775 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104725__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:25,779 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:26,010 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:26,095 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104726__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:26,098 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:26,330 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:26,433 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104726__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:26,438 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:26,685 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:26,778 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104726__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:26,786 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:27,123 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:27,242 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104727__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:27,252 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:27,581 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:27,683 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104727__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:27,694 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:28,101 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:28,196 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104728__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:28,205 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:28,462 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:28,552 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104728__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:28,557 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:28,840 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:28,950 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104728__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:28,963 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:29,308 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:29,419 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104729__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:29,426 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:29,733 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:29,819 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104729__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:29,824 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:30,111 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:30,248 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104730__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:30,256 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:30,614 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:30,732 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104730__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:30,737 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:31,046 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:31,134 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104731__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:31,142 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:31,902 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:32,027 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104731__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:32,036 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:32,426 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:32,522 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104732__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:32,527 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:32,780 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:32,872 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104732__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:32,875 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:33,089 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:33,168 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104733__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:33,175 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:33,400 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:33,483 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104733__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:33,490 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:33,717 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:33,808 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104733__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:33,836 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:34,068 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:34,145 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104734__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:34,149 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:34,352 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:34,411 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104734__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:34,414 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:34,642 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:34,739 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104734__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:34,742 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:34,911 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:35,041 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104734__PWS-Lien Waiver _11 _Unconditional___v3.pdf
+2026-02-17 16:17:35,046 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:35,220 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:35,281 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104735__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:35,286 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:35,488 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:35,568 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104735__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:35,572 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:35,766 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:35,866 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104735__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:35,872 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:36,068 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:36,139 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104736__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:17:36,145 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:36,344 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:36,409 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104736__PWS-Lien Waiver _11 _Unconditional___v1.pdf
+2026-02-17 16:17:36,414 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:36,628 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:36,695 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104736__PWS-Lien Waiver _11 _Unconditional___v2.pdf
+2026-02-17 16:17:36,698 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:36,885 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:17:36,952 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\UNKNOWN\CLW\20260217_104736__PWS-Lien Waiver _11 _Unconditional___v3.pdf
+2026-02-17 16:17:36,954 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:17:49,822 [INFO] Worker interrupted and exiting.
+2026-02-17 16:21:15,201 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-17 16:21:15,202 [INFO] Starting Outlook -> Local Lien Waiver worker (project matching from Z:).
+2026-02-17 16:21:15,228 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-17 16:21:15,231 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-17 16:21:15,747 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-17 16:21:15,835 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:21:15,874 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\20260217_105115__PWS-Lien Waiver _11 _Unconditional_.pdf
+2026-02-17 16:21:15,875 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:21:15,881 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:21:15,897 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:21:15,900 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:21:15,904 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:21:15,907 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:21:15,910 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:21:15,914 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:21:15,918 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:21:15,922 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:21:15,947 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\20260217_105115__55120-White Tail-Nevados-UCLW _ 21 FINAL PAYMENT.pdf
+2026-02-17 16:21:15,949 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:21:15,959 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:21:15,975 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:21:15,978 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:21:15,981 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:21:15,985 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:21:15,990 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:21:15,993 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:21:15,998 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:21:16,001 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:21:16,058 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\CLW\20260217_105116__55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-17 16:21:16,060 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-17 16:21:16,069 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:21:16,089 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:21:16,093 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-17 16:21:16,098 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-17 16:21:16,104 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:21:16,108 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:21:16,153 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\BOLDT\UCLW\20260217_105116__106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-17 16:21:16,155 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-17 16:21:16,191 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:21:16,221 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:21:16,225 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:21:16,229 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:21:16,235 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-17 16:21:16,240 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:21:16,244 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:21:16,247 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:21:16,253 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:21:16,256 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-17 16:21:16,286 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\20260217_105116__55120 White Tail ULW _ 22_encrypted_.pdf
+2026-02-17 16:21:16,289 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:21:16,300 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:21:16,343 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\20260217_105116__22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:21:16,369 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\20260217_105116__22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:21:16,371 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-17 16:21:51,422 [INFO] Worker interrupted and exiting.
+2026-02-17 16:31:41,430 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-17 16:31:41,431 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-17 16:31:41,458 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-17 16:31:41,460 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-17 16:31:41,926 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-17 16:31:41,926 [INFO] Processing emails received after: 02/16/2026 16:31 PM
+2026-02-17 16:31:41,949 [INFO] Found 7 email(s) from the past 24 hours.
+2026-02-17 16:31:41,969 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-17 16:31:42,009 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:31:42,018 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:31:42,019 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-17 16:31:42,023 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:31:42,056 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:31:42,060 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:31:42,064 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:31:42,067 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:31:42,071 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:31:42,074 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:31:42,078 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:31:42,088 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:31:42,113 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-17 16:31:42,118 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:31:42,129 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:31:42,148 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:31:42,152 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:31:42,156 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:31:42,160 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:31:42,162 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:31:42,166 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:31:42,170 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:31:42,172 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:31:42,231 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-17 16:31:42,234 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-17 16:31:42,239 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:31:42,254 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:31:42,257 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-17 16:31:42,260 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-17 16:31:42,263 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:31:42,267 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:31:42,296 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-17 16:31:42,299 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-17 16:31:42,304 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:31:42,316 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:31:42,319 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:31:42,321 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:31:42,323 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-17 16:31:42,325 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:31:42,328 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:31:42,337 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:31:42,342 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:31:42,346 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-17 16:31:42,376 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-17 16:31:42,378 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:31:42,384 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:31:42,421 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:31:42,444 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:31:42,445 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-17 16:31:42,451 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:31:42,481 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:31:42,483 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:31:42,483 [INFO] Done. Processed: 7, Failed/Skipped: 0, Total: 7
+2026-02-17 16:46:09,348 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-17 16:46:09,349 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-17 16:46:09,383 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-17 16:46:09,390 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-17 16:46:09,778 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-17 16:46:09,779 [INFO] Processing emails received after: 02/16/2026 16:46 PM
+2026-02-17 16:46:09,790 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-17 16:46:09,813 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-17 16:46:09,872 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-17 16:46:09,891 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-17 16:46:09,893 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-17 16:46:09,900 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-17 16:46:09,952 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-17 16:46:09,953 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-17 16:46:09,959 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-17 16:46:09,999 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:46:10,009 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:46:10,010 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-17 16:46:10,016 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:46:10,041 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:46:10,044 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:46:10,046 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:46:10,048 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:46:10,053 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:46:10,060 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:46:10,062 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:46:10,064 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:46:10,093 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-17 16:46:10,097 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:46:10,105 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:46:10,125 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:46:10,130 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:46:10,133 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:46:10,138 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:46:10,141 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:46:10,145 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:46:10,148 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:46:10,152 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:46:10,227 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-17 16:46:10,230 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-17 16:46:10,235 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:46:10,252 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:46:10,256 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-17 16:46:10,259 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-17 16:46:10,263 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:46:10,267 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:46:10,312 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-17 16:46:10,313 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-17 16:46:10,321 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:46:10,337 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:46:10,341 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:46:10,345 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:46:10,349 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-17 16:46:10,353 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:46:10,358 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:46:10,363 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:46:10,366 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:46:10,370 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-17 16:46:10,401 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-17 16:46:10,404 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:46:10,409 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:46:10,458 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:46:10,491 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:46:10,493 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-17 16:46:10,501 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:46:10,541 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:46:10,544 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:46:10,545 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-17 16:49:39,042 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-17 16:49:39,043 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-17 16:49:39,079 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-17 16:49:39,083 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-17 16:49:39,538 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-17 16:49:39,539 [INFO] Processing emails received after: 02/16/2026 16:49 PM
+2026-02-17 16:49:39,565 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-17 16:49:39,595 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-17 16:49:39,644 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-17 16:49:39,665 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-17 16:49:39,668 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-17 16:49:39,676 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-17 16:49:39,734 [INFO] Saved attachment to: C:\Lien Wavers\003 DIV Kawailoa Wind\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-17 16:49:39,736 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-17 16:49:39,745 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-17 16:49:39,794 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:49:39,805 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:49:39,809 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-17 16:49:39,820 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:49:39,846 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:49:39,849 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:49:39,853 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:49:39,858 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:49:39,863 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:49:39,867 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:49:39,872 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:49:39,879 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:49:39,912 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-17 16:49:39,915 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:49:39,926 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:49:39,952 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:49:39,958 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:49:39,962 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:49:39,967 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:49:39,972 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-17 16:49:39,976 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:49:39,980 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:49:39,984 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:49:40,081 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-17 16:49:40,085 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-17 16:49:40,092 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:49:40,113 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:49:40,117 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-17 16:49:40,122 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-17 16:49:40,128 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-17 16:49:40,133 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:49:40,187 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-17 16:49:40,190 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-17 16:49:40,199 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:49:40,223 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-17 16:49:40,228 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-17 16:49:40,233 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-17 16:49:40,238 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-17 16:49:40,243 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-17 16:49:40,247 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-17 16:49:40,252 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-17 16:49:40,257 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-17 16:49:40,263 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-17 16:49:40,306 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-17 16:49:40,309 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-17 16:49:40,317 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-17 16:49:40,373 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:49:40,417 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-17 16:49:40,419 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-17 16:49:40,428 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-17 16:49:40,476 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-17 16:49:40,478 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-17 16:49:40,479 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-18 15:17:15,229 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 15:17:15,241 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 15:17:19,056 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 15:17:19,061 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 15:17:19,600 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 15:17:19,601 [INFO] Processing emails received after: 02/17/2026 15:17 PM
+2026-02-18 15:17:19,659 [INFO] Found 3 email(s) from the past 24 hours.
+2026-02-18 15:17:19,712 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 15:17:19,836 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:17:19,865 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:17:19,867 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 15:17:19,879 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 15:17:19,951 [INFO] Saved attachment to: C:\Lien Wavers\003 DIV Kawailoa Wind\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 15:17:19,955 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 15:17:19,966 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 15:17:20,039 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:17:20,057 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:17:20,061 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 15:17:20,062 [INFO] Done. Processed: 3, Failed/Skipped: 0, Total: 3
+2026-02-18 15:18:25,307 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 15:18:25,309 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 15:18:45,399 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 15:18:45,402 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 15:18:45,883 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 15:18:45,883 [INFO] Processing emails received after: 02/17/2026 15:18 PM
+2026-02-18 15:19:57,066 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 15:19:57,067 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 15:19:59,451 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 15:19:59,455 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 15:19:59,855 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 15:19:59,856 [INFO] Processing emails received after: 02/16/2026 15:19 PM
+2026-02-18 15:19:59,881 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 15:19:59,923 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 15:20:00,014 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:20:00,038 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:20:00,042 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 15:20:00,051 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 15:20:00,121 [INFO] Saved attachment to: C:\Lien Wavers\003 DIV Kawailoa Wind\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 15:20:00,124 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 15:20:00,130 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 15:20:00,175 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:20:00,191 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:20:00,193 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 15:20:00,209 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:20:00,235 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:20:00,240 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:20:00,245 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:20:00,251 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:20:00,255 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 15:20:00,260 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:20:00,263 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:20:00,266 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:20:00,297 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 15:20:00,299 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 15:20:00,306 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:20:00,335 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:20:00,338 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:20:00,342 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:20:00,347 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:20:00,350 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 15:20:00,353 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:20:00,360 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:20:00,364 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:20:00,443 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-18 15:20:00,445 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-18 15:20:00,454 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:20:00,473 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:20:00,479 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-18 15:20:00,484 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-18 15:20:00,487 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:20:00,491 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 15:20:00,559 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-18 15:20:00,561 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-18 15:20:00,573 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:20:00,609 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:20:00,612 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:20:00,615 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:20:00,619 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 15:20:00,621 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 15:20:00,626 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:20:00,629 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:20:00,631 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:20:00,635 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 15:20:00,667 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 15:20:00,668 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 15:20:00,677 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:20:00,721 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 15:20:00,758 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 15:20:00,760 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 15:20:00,768 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 15:20:00,816 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:20:00,819 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 15:20:00,820 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-18 15:32:24,660 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 15:32:24,661 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 15:32:27,457 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 15:32:27,462 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 15:32:27,918 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 15:32:27,919 [INFO] Processing emails received after: 02/16/2026 15:32 PM
+2026-02-18 15:32:27,957 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 15:32:28,030 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 15:32:28,141 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:32:28,159 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\Horse 2 PV Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 15:32:28,162 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 15:32:28,169 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 15:32:28,245 [INFO] Saved attachment to: C:\Lien Wavers\003 DIV Kawailoa Wind\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 15:32:28,251 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 15:32:28,262 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 15:32:28,310 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:32:28,324 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:32:28,326 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 15:32:28,336 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:32:28,359 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:32:28,363 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:32:28,366 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:32:28,371 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:32:28,376 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 15:32:28,380 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:32:28,384 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:32:28,389 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:32:28,422 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 15:32:28,425 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 15:32:28,432 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:32:28,448 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:32:28,453 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:32:28,457 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:32:28,460 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:32:28,464 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 15:32:28,470 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:32:28,474 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:32:28,477 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:32:28,560 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-18 15:32:28,564 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-18 15:32:28,573 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:32:28,599 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:32:28,606 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-18 15:32:28,612 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-18 15:32:28,617 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 15:32:28,622 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 15:32:28,680 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-18 15:32:28,683 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-18 15:32:28,693 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:32:28,728 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 15:32:28,732 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 15:32:28,737 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 15:32:28,741 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 15:32:28,746 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 15:32:28,751 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 15:32:28,756 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 15:32:28,759 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 15:32:28,763 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 15:32:28,795 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 15:32:28,797 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 15:32:28,803 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 15:32:28,853 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 15:32:28,887 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 15:32:28,889 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 15:32:28,898 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 15:32:28,946 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 15:32:28,948 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 15:32:28,949 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-18 16:03:30,712 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:03:30,714 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:03:33,373 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:03:33,377 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:03:33,819 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:03:33,820 [INFO] Processing emails received after: 02/16/2026 16:03 PM
+2026-02-18 16:03:33,894 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 16:03:33,942 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:03:33,943 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,944 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,944 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,945 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,945 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,947 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:33,947 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,059 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:03:34,077 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:03:34,080 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:03:34,088 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:03:34,089 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,089 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,089 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,089 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,143 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:03:34,145 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:03:34,153 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:03:34,153 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,153 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,153 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,155 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,155 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,192 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:03:34,202 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:03:34,204 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:03:34,212 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:03:34,212 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,213 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,213 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,213 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,214 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,228 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:03:34,231 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:03:34,236 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:03:34,239 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:03:34,243 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:03:34,247 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:03:34,253 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:03:34,259 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:03:34,294 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:03:34,296 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:03:34,305 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:03:34,305 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,305 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,306 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,306 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,306 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,328 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:03:34,333 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:03:34,337 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:03:34,341 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:03:34,345 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:03:34,349 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:03:34,354 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:03:34,358 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:03:34,421 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-18 16:03:34,422 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-18 16:03:34,429 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:03:34,430 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,430 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,430 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,431 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,431 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,441 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:03:34,445 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-18 16:03:34,449 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-18 16:03:34,453 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:03:34,457 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:03:34,499 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-18 16:03:34,504 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-18 16:03:34,521 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:03:34,521 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,521 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,522 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,522 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,522 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,535 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:03:34,539 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:03:34,543 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:03:34,546 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:03:34,550 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:03:34,554 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:03:34,559 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:03:34,563 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:03:34,568 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:03:34,600 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:03:34,602 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:03:34,609 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:03:34,609 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,609 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,610 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,610 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,610 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,610 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,650 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:03:34,677 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:03:34,679 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:03:34,687 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:03:34,688 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,688 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,688 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,688 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,689 [WARNING] OPENAI_API_KEY not set in .env; cannot match project. Add OPENAI_API_KEY to .env.
+2026-02-18 16:03:34,726 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional)__v1.pdf
+2026-02-18 16:03:34,729 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:03:34,730 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-18 16:03:52,358 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:03:52,358 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:05:12,300 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:05:12,301 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:05:14,793 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:05:14,799 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:05:15,221 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:05:15,221 [INFO] Processing emails received after: 02/16/2026 16:05 PM
+2026-02-18 16:05:15,259 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 16:05:15,319 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:05:18,041 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:18,045 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:19,233 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:19,234 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:20,513 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:20,514 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:21,746 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:21,747 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:22,617 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:22,619 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:23,485 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:23,486 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:24,303 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:24,305 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:24,397 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:05:24,413 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:05:24,416 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:05:24,428 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:05:25,279 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:25,280 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:26,280 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:05:26,282 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}
+2026-02-18 16:05:45,932 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:05:45,933 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:06:35,374 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:06:35,375 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:06:50,003 [ERROR] Error while scanning stores for folder.
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 290, in get_folder
+    for store_i in range(1, ns.Folders.Count + 1):
+                            ^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\win32com\client\dynamic.py", line 631, in __getattr__
+    raise AttributeError(f"{self._username_}.{attr}")
+AttributeError: GetNamespace.Folders
+2026-02-18 16:06:50,006 [ERROR] Could not resolve folder path: Inbox\Lien Wavers
+2026-02-18 16:06:50,006 [INFO] Top-level stores and their immediate folders (diagnostic):
+2026-02-18 16:06:50,008 [ERROR] Failed to enumerate top-level stores for diagnostics.
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 316, in get_folder
+    for si in range(1, ns.Folders.Count + 1):
+                       ^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\win32com\client\dynamic.py", line 631, in __getattr__
+    raise AttributeError(f"{self._username_}.{attr}")
+AttributeError: GetNamespace.Folders
+2026-02-18 16:07:04,638 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:07:04,639 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:07:07,025 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:07:07,028 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:07:07,437 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:07:07,438 [INFO] Processing emails received after: 02/16/2026 16:07 PM
+2026-02-18 16:07:07,470 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 16:07:07,525 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:07:09,640 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:09,643 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:10,392 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:10,394 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:11,206 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:11,208 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:12,346 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:12,348 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:13,631 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:13,633 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:15,577 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:15,578 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:16,365 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:16,368 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:16,518 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:07:16,532 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:07:16,535 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:07:16,545 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:07:17,301 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-02-18 16:07:17,303 [ERROR] OpenAI project matching failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 105, in find_best_project_folder
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\openai\_base_client.py", line 1037, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2026-02-18 16:07:27,336 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:07:27,337 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:08:45,517 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:08:45,518 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:08:47,948 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:08:47,951 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:08:48,348 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:08:48,348 [INFO] Processing emails received after: 02/16/2026 16:08 PM
+2026-02-18 16:08:48,365 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 16:08:48,411 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:08:59,269 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:11,213 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:13,785 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:17,190 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:17,302 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:09:17,320 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:09:17,323 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:09:17,336 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:09:28,123 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:38,900 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:38,949 [INFO] Saved attachment to: C:\Lien Wavers\003 DIV Kawailoa Wind\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:09:38,952 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:09:38,960 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:09:41,072 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:43,620 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:09:43,680 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:09:43,688 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:09:43,690 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:09:43,700 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:09:50,460 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:00,877 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:00,905 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:10:00,911 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:10:00,914 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:10:00,925 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:10:00,930 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:10:00,935 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:10:00,941 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:10:00,945 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:10:00,972 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:10:00,975 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:10:00,982 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:10:09,218 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:17,685 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:17,738 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:10:17,759 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:10:17,766 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:10:17,775 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:10:17,784 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:10:17,794 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:10:17,799 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:10:17,805 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:10:17,879 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-18 16:10:17,882 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-18 16:10:17,889 [INFO] Processing email. Subject: 'Badger State BOLDT Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:10:21,678 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:25,929 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:25,974 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:10:25,980 [INFO] Skipping non-PDF attachment: image002.jpg
+2026-02-18 16:10:25,986 [INFO] Skipping non-PDF attachment: image003.jpg
+2026-02-18 16:10:25,992 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:10:26,001 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:10:26,040 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State BOLDT\UCLW\106598-0011 R1 - Boldt Unconditional LW - Progress.pdf
+2026-02-18 16:10:26,044 [INFO] Processed mail: 'Badger State BOLDT Unconditional lien waiver'
+2026-02-18 16:10:26,053 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:10:31,618 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:39,600 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:39,645 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:10:39,650 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:10:39,656 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:10:39,660 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:10:39,670 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:10:39,679 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:10:39,683 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:10:39,689 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:10:39,701 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:10:39,759 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Tail Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:10:39,774 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:10:39,812 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:10:45,883 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:49,768 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:49,897 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:10:49,934 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\Me State SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:10:49,939 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:10:49,952 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:10:52,518 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:55,708 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:10:55,757 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\State Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:10:55,761 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:10:55,762 [INFO] Done. Processed: 9, Failed/Skipped: 0, Total: 9
+2026-02-18 16:14:43,328 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:14:43,330 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:14:45,927 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:14:45,931 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:14:46,497 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:14:46,498 [INFO] Processing emails received after: 02/16/2026 16:14 PM
+2026-02-18 16:14:46,544 [INFO] Found 9 email(s) from the past 24 hours.
+2026-02-18 16:14:46,639 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:15:00,162 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:06,921 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:10,589 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:13,561 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:13,644 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:15:13,659 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:15:13,661 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:15:13,669 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:15:30,527 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:40,787 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:54,652 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:15:54,711 [INFO] Saved attachment to: C:\Lien Wavers\024 DVII Kawailoa Solar\UNKNOWN\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:15:54,714 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:15:54,727 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:15:57,889 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:00,267 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:00,328 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:16:00,339 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:16:00,343 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:16:00,354 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:16:08,260 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:11,621 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:13,843 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:13,903 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:16:13,908 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:16:13,915 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:16:13,921 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:16:13,926 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:16:13,935 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:16:13,941 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:16:13,949 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:16:13,975 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:16:13,979 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:16:13,988 [INFO] Processing email. Subject: 'White Tail Primoris Conditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:16:25,716 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:43,747 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:16:43,790 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:16:43,802 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:16:43,819 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:16:43,838 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:16:43,849 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:16:43,857 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:16:43,865 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:16:43,874 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:16:44,092 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\CLW\55120 Whitetail _PRE Pay Application_DECEMBER_INV22_DRAFT - signed - final.pdf
+2026-02-18 16:16:44,098 [INFO] Processed mail: 'White Tail Primoris Conditional lien waiver'
+2026-02-18 16:16:45,282 [ERROR] Error processing mail Subject='Badger State BOLDT Unconditional lien waiver': (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'The operation failed.', None, 0, -2147221241), None)
+Traceback (most recent call last):
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 490, in main
+    ok, info = process_mail_item(mail, project_folders)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 360, in process_mail_item
+    sender = getattr(msg, "SenderName", "") or getattr(msg, "Sender", "")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\win32com\client\dynamic.py", line 620, in __getattr__
+    ret = self._oleobj_.Invoke(retEntry.dispid, 0, invoke_type, 1)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pywintypes.com_error: (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'The operation failed.', None, 0, -2147221241), None)
+2026-02-18 16:16:45,325 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:16:53,299 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:02,345 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:02,412 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:17:02,426 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:17:02,437 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:17:02,450 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:17:02,460 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:17:02,469 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:17:02,478 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:17:02,489 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:17:02,497 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:17:02,555 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:17:02,560 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:17:02,575 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:17:08,678 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:19,340 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:19,437 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:17:19,505 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:17:19,508 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:17:19,524 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:17:22,656 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:27,722 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:17:27,817 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:17:27,822 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:17:27,823 [INFO] Done. Processed: 8, Failed/Skipped: 1, Total: 9
+2026-02-18 16:27:42,888 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:27:42,891 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:27:46,727 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:27:46,733 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:27:47,269 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:27:47,272 [INFO] Processing emails received after: 02/16/2026 16:27 PM
+2026-02-18 16:27:47,331 [INFO] Found 7 email(s) from the past 24 hours.
+2026-02-18 16:27:47,423 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:27:53,310 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:27:53,531 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:27:53,568 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:27:53,582 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:27:53,634 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:27:59,241 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:27:59,347 [INFO] Saved attachment to: C:\Lien Wavers\024 DVII Kawailoa Solar\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:27:59,351 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:27:59,364 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:28:05,544 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:28:05,651 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:28:05,673 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:28:05,680 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:28:05,703 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:28:09,658 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:28:09,717 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:28:09,729 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:28:09,739 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:28:09,750 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:28:09,757 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:28:09,765 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:28:09,773 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:28:09,782 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:28:09,841 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:28:09,845 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:28:09,860 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:28:13,996 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:28:14,047 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:28:14,061 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:28:14,069 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:28:14,078 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:28:14,091 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:28:14,100 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:28:14,109 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:28:14,118 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:28:14,126 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:28:14,191 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:28:14,195 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:28:14,205 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:28:21,501 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:28:21,657 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:28:21,746 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:28:21,764 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:28:21,781 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:28:28,164 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:28:28,267 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:28:28,275 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:28:28,276 [INFO] Done. Processed: 7, Failed/Skipped: 0, Total: 7
+2026-02-18 16:31:32,316 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:31:32,317 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:31:35,468 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:31:35,471 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:31:35,901 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:31:35,901 [INFO] Processing emails received after: 02/18/2026 15:31 PM
+2026-02-18 16:31:36,096 [INFO] No emails found in the past 24 hours. Done.
+2026-02-18 16:32:56,790 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:32:56,791 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:33:00,788 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:33:00,791 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:33:01,247 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:33:01,248 [INFO] Processing emails received after: 02/18/2026 15:33 PM
+2026-02-18 16:33:24,330 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:33:24,331 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:33:26,970 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:33:26,975 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:33:27,398 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:33:27,399 [INFO] Processing emails received after: 02/18/2026 15:33 PM
+2026-02-18 16:33:27,426 [INFO] No emails found in the past 24 hours. Done.
+2026-02-18 16:34:54,302 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:34:54,305 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:34:58,510 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:34:58,517 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:34:59,032 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:34:59,034 [INFO] Processing emails received after: 02/18/2026 15:34 PM
+2026-02-18 16:34:59,070 [INFO] No emails found in the past 24 hours. Done.
+2026-02-18 16:41:12,286 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:41:12,287 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:41:12,328 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:41:12,331 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:41:12,693 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:41:12,693 [INFO] Processing emails received after: 02/18/2026 15:41 PM
+2026-02-18 16:41:12,710 [INFO] Found 1 email(s) from the past 24 hours.
+2026-02-18 16:41:12,733 [INFO] Processing email. Subject: 'RE2 PV Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:41:20,591 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:41:20,671 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\PV\Primoris\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:41:20,674 [INFO] Processed mail: 'RE2 PV Primoris UCLW'
+2026-02-18 16:41:20,675 [INFO] Done. Processed: 1, Failed/Skipped: 0, Total: 1
+2026-02-18 16:46:54,361 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:46:54,362 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:46:54,398 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:46:54,402 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:46:54,772 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:46:54,772 [INFO] Processing emails received after: 02/18/2026 15:46 PM
+2026-02-18 16:46:54,786 [INFO] Found 1 email(s) from the past 24 hours.
+2026-02-18 16:46:54,799 [INFO] Processing email. Subject: 'RE2 PV Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:47:02,666 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:47:02,710 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Primoris\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:47:02,713 [INFO] Processed mail: 'RE2 PV Primoris UCLW'
+2026-02-18 16:47:02,713 [INFO] Done. Processed: 1, Failed/Skipped: 0, Total: 1
+2026-02-18 16:47:32,084 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:47:32,085 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:47:32,127 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:47:32,132 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:47:32,505 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:47:32,506 [INFO] Processing emails received after: 02/16/2026 16:47 PM
+2026-02-18 16:47:32,524 [INFO] Found 8 email(s) from the past 24 hours.
+2026-02-18 16:47:32,548 [INFO] Processing email. Subject: 'RE2 PV Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:47:37,264 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:47:37,305 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Primoris\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:47:37,307 [INFO] Processed mail: 'RE2 PV Primoris UCLW'
+2026-02-18 16:47:37,312 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:47:42,474 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:47:42,536 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:47:42,553 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:47:42,556 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:47:42,563 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:47:59,872 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:47:59,925 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:47:59,928 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:47:59,933 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:48:05,530 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:48:05,567 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:48:05,575 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:48:05,577 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:48:05,585 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:48:08,947 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:48:08,967 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:48:08,970 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:48:08,974 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:48:08,977 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:48:08,982 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:48:08,985 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:48:08,989 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:48:08,991 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:48:09,017 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:48:09,019 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:48:09,024 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:48:13,686 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:48:13,708 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:48:13,713 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:48:13,716 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:48:13,720 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:48:13,723 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:48:13,726 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:48:13,729 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:48:13,732 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:48:13,735 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:48:13,755 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:48:13,756 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:48:13,761 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:48:20,614 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:48:20,646 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:48:20,682 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:48:20,684 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:48:20,690 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:48:25,004 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:48:25,040 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:48:25,043 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:48:25,043 [INFO] Done. Processed: 8, Failed/Skipped: 0, Total: 8
+2026-02-18 16:52:05,184 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:52:05,185 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:52:05,240 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:52:05,244 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:52:05,647 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:52:05,647 [INFO] Processing emails received after: 02/16/2026 16:52 PM
+2026-02-18 16:52:05,671 [INFO] Found 8 email(s) from the past 24 hours.
+2026-02-18 16:52:05,713 [INFO] Processing email. Subject: 'RE2 PV Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:52:16,087 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:52:16,132 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Primoris\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:52:16,134 [INFO] Processed mail: 'RE2 PV Primoris UCLW'
+2026-02-18 16:52:16,139 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:52:21,122 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:52:21,162 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:52:21,176 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:52:21,178 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:52:21,187 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:52:30,058 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:52:30,099 [INFO] Saved attachment to: C:\Lien Wavers\_UNMATCHED\Primoris\UCLW\Unconditional Progress #24208812.pdf
+2026-02-18 16:52:30,102 [INFO] Processed mail: 'Kawailoa Primoris UCLW'
+2026-02-18 16:52:30,106 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:54:38,117 [INFO] Project source path OK: Z:\Shared\Projects\Portfolio
+2026-02-18 16:54:38,120 [INFO] Starting Outlook Lien Waiver processor (past 24 hours).
+2026-02-18 16:54:38,157 [INFO] Resolved folder path: Inbox\Lien Wavers
+2026-02-18 16:54:38,161 [INFO] Watching Outlook folder (resolved): Lien Wavers
+2026-02-18 16:54:38,557 [INFO] Loaded 124 project folders from Z:\Shared\Projects\Portfolio
+2026-02-18 16:54:38,558 [INFO] Processing emails received after: 02/16/2026 16:54 PM
+2026-02-18 16:54:38,570 [INFO] Found 8 email(s) from the past 24 hours.
+2026-02-18 16:54:38,605 [INFO] Processing email. Subject: 'RE2 PV Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:54:48,041 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:54:48,089 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Primoris\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:54:48,092 [INFO] Processed mail: 'RE2 PV Primoris UCLW'
+2026-02-18 16:54:48,097 [INFO] Processing email. Subject: 'Red Horse 2 PV Boldt CLW UCLW' From: 'Avni Goyal'
+2026-02-18 16:55:00,786 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:00,829 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\UCLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:55:00,843 [INFO] Saved attachment to: C:\Lien Wavers\005 Red Horse 2\PV\Boldt\CLW\SMS Exhibit F-2 - Unconditional PayApp #24.pdf
+2026-02-18 16:55:00,845 [INFO] Processed mail: 'Red Horse 2 PV Boldt CLW UCLW'
+2026-02-18 16:55:00,851 [INFO] Processing email. Subject: 'Kawailoa Primoris UCLW' From: 'Avni Goyal'
+2026-02-18 16:55:23,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:23,475 [WARNING] FAILED (no project): Ambiguous: 'Kawailoa' matches multiple folders ('003 DIV Kawailoa Wind' and '024 DVII Kawailoa Solar')
+2026-02-18 16:55:23,477 [WARNING] Could not process mail: 'Kawailoa Primoris UCLW'. Reason: failed:no_project — Ambiguous: 'Kawailoa' matches multiple folders ('003 DIV Kawailoa Wind' and '024 DVII Kawailoa Solar')
+2026-02-18 16:55:23,486 [INFO] Processing email. Subject: 'Huntington PV Boldt UCLW CLW' From: 'Avni Goyal'
+2026-02-18 16:55:33,080 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:33,127 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\UCLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:55:33,136 [INFO] Saved attachment to: C:\Lien Wavers\011 Huntington\PV\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:55:33,138 [INFO] Processed mail: 'Huntington PV Boldt UCLW CLW'
+2026-02-18 16:55:33,146 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:55:40,860 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:40,877 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:55:40,879 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:55:40,882 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:55:40,885 [INFO] Skipping non-PDF attachment: image004.jpg
+2026-02-18 16:55:40,888 [INFO] Skipping non-PDF attachment: image005.png
+2026-02-18 16:55:40,890 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:55:40,894 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:55:40,897 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:55:40,917 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120-White Tail-Nevados-UCLW # 21 FINAL PAYMENT.pdf
+2026-02-18 16:55:40,918 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:55:40,924 [INFO] Processing email. Subject: 'White Tail Primoris Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:55:46,091 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:46,103 [INFO] Skipping non-PDF attachment: image001.jpg
+2026-02-18 16:55:46,107 [INFO] Skipping non-PDF attachment: image002.png
+2026-02-18 16:55:46,111 [INFO] Skipping non-PDF attachment: image003.png
+2026-02-18 16:55:46,114 [INFO] Skipping non-PDF attachment: image004.png
+2026-02-18 16:55:46,117 [INFO] Skipping non-PDF attachment: image005.jpg
+2026-02-18 16:55:46,119 [INFO] Skipping non-PDF attachment: image006.png
+2026-02-18 16:55:46,124 [INFO] Skipping non-PDF attachment: image007.png
+2026-02-18 16:55:46,129 [INFO] Skipping non-PDF attachment: image008.png
+2026-02-18 16:55:46,132 [INFO] Skipping non-PDF attachment: image009.png
+2026-02-18 16:55:46,156 [INFO] Saved attachment to: C:\Lien Wavers\052 White Tail\Primoris\UCLW\55120 White Tail ULW # 22_encrypted_.pdf
+2026-02-18 16:55:46,160 [INFO] Processed mail: 'White Tail Primoris Unconditional lien waiver'
+2026-02-18 16:55:46,165 [INFO] Processing email. Subject: 'Show Me State SOLV Unconditional lien waiver' From: 'Ankit Chaturvedi'
+2026-02-18 16:55:52,868 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:55:52,948 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - December 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:55:53,002 [INFO] Saved attachment to: C:\Lien Wavers\075 Show Me State\SOLV\UCLW\22446024 - November 2025 Unconditional Waiver and Release on Progress.pdf
+2026-02-18 16:55:53,005 [INFO] Processed mail: 'Show Me State SOLV Unconditional lien waiver'
+2026-02-18 16:55:53,015 [INFO] Processing email. Subject: 'Badger State Boldt Conditional lien waiver' From: 'Avni Goyal'
+2026-02-18 16:56:00,462 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 16:56:00,526 [INFO] Saved attachment to: C:\Lien Wavers\035 Badger State\Boldt\CLW\PWS-Lien Waiver #11 (Unconditional).pdf
+2026-02-18 16:56:00,529 [INFO] Processed mail: 'Badger State Boldt Conditional lien waiver'
+2026-02-18 16:56:00,529 [INFO] Done. Processed: 7, Failed/Skipped: 1, Total: 8
+2026-02-25 21:39:05,962 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 21:39:06,988 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 21:39:06,990 [INFO] Processing emails received after: 2026-02-23T16:09:06.990614Z (UTC)
+2026-02-25 21:39:07,158 [ERROR] Failed to fetch inbox messages: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+%272026-02-23T16%3A09%3A06Z%27&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+Traceback (most recent call last):
+  File "c:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 158, in fetch_inbox_messages
+    resp.raise_for_status()
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+%272026-02-23T16%3A09%3A06Z%27&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+2026-02-25 21:39:07,165 [INFO] No emails found in the lookback window. Done.
+2026-02-25 21:42:40,713 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 21:42:41,934 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 21:42:41,935 [INFO] Processing emails received after: 2026-02-23T16:12:41.935923Z (UTC)
+2026-02-25 21:42:42,082 [ERROR] Failed to fetch inbox messages: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+%272026-02-23T16%3A12%3A41Z%27&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+Traceback (most recent call last):
+  File "c:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 159, in fetch_inbox_messages
+    resp.raise_for_status()
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+%272026-02-23T16%3A12%3A41Z%27&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+2026-02-25 21:42:42,086 [INFO] No emails found in the lookback window. Done.
+2026-02-25 21:46:34,456 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 21:46:35,641 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 21:46:35,643 [INFO] Processing emails received after: 2026-02-23T16:16:35.643378Z (UTC)
+2026-02-25 21:46:37,579 [ERROR] Failed to fetch inbox messages: 404 Client Error: Not Found for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-23T16%3A16%3A35Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+Traceback (most recent call last):
+  File "c:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 159, in fetch_inbox_messages
+    resp.raise_for_status()
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://graph.microsoft.com/v1.0/users/lien-waivers@desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-23T16%3A16%3A35Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+2026-02-25 21:46:37,583 [INFO] No emails found in the lookback window. Done.
+2026-02-25 21:52:11,890 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 21:52:13,328 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 21:52:13,332 [INFO] Processing emails received after: 2026-02-23T16:22:13.332622Z (UTC)
+2026-02-25 21:52:14,832 [ERROR] Failed to fetch inbox messages: 404 Client Error: Not Found for url: https://graph.microsoft.com/v1.0/users/lien-waivers%40desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-23T16%3A22%3A13Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+Traceback (most recent call last):
+  File "c:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 166, in fetch_inbox_messages
+    resp.raise_for_status()
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://graph.microsoft.com/v1.0/users/lien-waivers%40desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-23T16%3A22%3A13Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+2026-02-25 21:52:14,836 [INFO] No emails found in the lookback window. Done.
+2026-02-25 21:54:05,627 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 21:54:06,654 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 21:54:06,655 [INFO] Processing emails received after: 2026-02-23T16:24:06.655774Z (UTC)
+2026-02-25 21:54:08,777 [ERROR] Mailbox not found (404). For app-only access, ensure Exchange Application Access Policy allows this app to access 'lien-waivers@desri.com'. You can also set LIEN_WAIVERS_MAILBOX_OBJECT_ID in .env to the shared mailbox Azure AD Object ID.
+2026-02-25 21:54:08,779 [INFO] No emails found in the lookback window. Done.
+2026-02-25 22:54:55,255 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 22:54:56,336 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 22:54:56,338 [INFO] Processing emails received after: 2026-02-23T17:24:56.338339Z (UTC)
+2026-02-25 22:54:58,042 [ERROR] Mailbox not found (404). For app-only access, ensure Exchange Application Access Policy allows this app to access 'lien-waivers@desri.com'. You can also set LIEN_WAIVERS_MAILBOX_OBJECT_ID in .env to the shared mailbox Azure AD Object ID.
+2026-02-25 22:54:58,046 [INFO] No emails found in the lookback window. Done.
+2026-02-25 23:11:53,075 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-25 23:11:54,138 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-25 23:11:54,141 [INFO] Processing emails received after: 2026-02-23T17:41:54.141358Z (UTC)
+2026-02-25 23:11:55,681 [ERROR] Mailbox not found (404). For app-only access, ensure Exchange Application Access Policy allows this app to access 'lien-waivers@desri.com'. You can also set LIEN_WAIVERS_MAILBOX_OBJECT_ID in .env to the shared mailbox Azure AD Object ID.
+2026-02-25 23:11:55,686 [INFO] No emails found in the lookback window. Done.
+2026-02-26 12:42:53,328 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-26 12:42:54,847 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-26 12:42:54,869 [INFO] Processing emails received after: 2026-02-24T07:12:54.869688Z (UTC)
+2026-02-26 12:42:56,363 [ERROR] Mailbox not found (404). For app-only access, ensure Exchange Application Access Policy allows this app to access 'lien-waivers@desri.com'. You can also set LIEN_WAIVERS_MAILBOX_OBJECT_ID in .env to the shared mailbox Azure AD Object ID.
+2026-02-26 12:42:56,365 [INFO] No emails found in the lookback window. Done.
+2026-02-26 15:27:30,240 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-26 15:27:31,387 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-26 15:27:31,388 [INFO] Processing emails received after: 2026-02-24T09:57:31.387641Z (UTC)
+2026-02-26 15:27:32,010 [ERROR] Failed to fetch inbox messages: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/lien-waivers%40desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-24T09%3A57%3A31Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+Traceback (most recent call last):
+  File "c:\Users\AvniGoyal\OneDrive - DESRI Project Management\Lien Waver Automation\test.py", line 177, in fetch_inbox_messages
+    resp.raise_for_status()
+  File "C:\Users\AvniGoyal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/lien-waivers%40desri.com/mailFolders/inbox/messages?%24filter=receivedDateTime+ge+2026-02-24T09%3A57%3A31Z&%24orderby=receivedDateTime+desc&%24top=100&%24select=id%2Csubject%2CreceivedDateTime%2Cfrom%2ChasAttachments
+2026-02-26 15:27:32,015 [INFO] No emails found in the lookback window. Done.
+2026-02-27 00:18:06,433 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-27 00:18:08,406 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-27 00:18:08,407 [INFO] Processing emails received after: 2026-02-24T18:48:08.407687Z (UTC)
+2026-02-27 00:18:08,838 [INFO] Found 1 email(s) in inbox.
+2026-02-27 00:18:09,893 [INFO] Processing email. Subject: 'Catclaw EPCS UCLW' From: 'Avni Goyal'
+2026-02-27 00:18:33,161 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 00:18:33,172 [INFO] Saved attachment to: C:\Lien Wavers\105 Catclaw\EPCS\UCLW\Unconditional Progress #24208813.pdf
+2026-02-27 00:18:33,173 [INFO] Processed mail: 'Catclaw EPCS UCLW'
+2026-02-27 00:18:33,173 [INFO] Done. Processed: 1, Failed/Skipped: 0, Total: 1
+2026-02-27 11:11:03,749 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-27 11:11:05,495 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-27 11:11:05,499 [INFO] Processing emails received after: 2026-02-25T05:41:05.499195Z (UTC)
+2026-02-27 11:11:06,201 [INFO] Found 1 email(s) in inbox.
+2026-02-27 11:11:06,833 [INFO] Processing email. Subject: 'Catclaw EPCS UCLW' From: 'Avni Goyal'
+2026-02-27 11:11:16,002 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 11:11:16,020 [WARNING] FAILED (no counterparty): Subject only includes 'EPCS', which is a descriptor not an identifiable company/entity name
+2026-02-27 11:11:16,023 [WARNING] Could not process mail: 'Catclaw EPCS UCLW'. Reason: failed:no_counterparty — Subject only includes 'EPCS', which is a descriptor not an identifiable company/entity name
+2026-02-27 11:11:16,024 [INFO] Done. Processed: 0, Failed/Skipped: 1, Total: 1
+2026-02-27 11:13:03,296 [INFO] Starting Lien Waiver processor (Graph API, inbox lien-waivers@desri.com).
+2026-02-27 11:13:04,836 [INFO] Loaded 125 project folders from Egnyte: /Shared/Projects/Portfolio
+2026-02-27 11:13:04,836 [INFO] Processing emails received after: 2026-02-25T05:43:04.836289Z (UTC)
+2026-02-27 11:13:05,304 [INFO] Found 1 email(s) in inbox.
+2026-02-27 11:13:06,508 [INFO] Processing email. Subject: 'Catclaw EPCS UCLW' From: 'Avni Goyal'
+2026-02-27 11:13:12,132 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 11:13:18,664 [INFO] Uploaded to Egnyte: /Shared/Company/Functions/Accounting/3. Financial Controlling/3. Accounts Payable/3. Payments/Bank Draws/201. Lien Waivers/105 Catclaw/EPCS/UCLW/20260227_054317__Unconditional Progress _24208813.pdf
+2026-02-27 11:13:18,665 [INFO] Processed mail: 'Catclaw EPCS UCLW'
+2026-02-27 11:13:18,666 [INFO] Done. Processed: 1, Failed/Skipped: 0, Total: 1
